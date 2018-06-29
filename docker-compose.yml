@@ -1,0 +1,16 @@
+# Time-stamp: <2018-06-11 19:51:25 daniel>
+
+#
+# docker-compose.yml
+#
+
+# This is the docker-compose file associated with the project parseblock
+# and the application 'block.parse'.
+#
+# Auther: Daniel Mendyke [archadious@gmail.com]
+# https://github.com/TaurusEight/blockparse
+
+version: '3'
+services:
+  parseblock:
+    build: ./
