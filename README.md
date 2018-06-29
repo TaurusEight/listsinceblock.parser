@@ -1,7 +1,7 @@
 
 
-‘block.parse’
--------------
+‘listsinceblock.parser’
+-----------------------
 
 An application to parse ‘listsinceblock’ from JSON text files and store
 and filter valid deposit to known clients.
